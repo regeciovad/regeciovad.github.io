@@ -8,3 +8,5 @@
 TBD
 
 [![GitHub](_assets/icons/icon-github.svg)](https://github.com/regeciovad)
+
+<a href="https://github.com/regeciovad" class="icon fab fa-github alt"><span class="label">GitHub</span>
