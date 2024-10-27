@@ -9,6 +9,14 @@ category: home
 <a href="https://www.twitter.com/in/regeciovad/" target="_blank"><img src="assets/icons/icon-twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a>
 <a href="https://medium.com/@regeciova-dominika" target="_blank"><img src="assets/icons/icon-website.svg" alt="Website" style="width:42px;height:42px;"></a>
 
+Senior Researcher | Gen | FIT BUT | Formal Models and Languages in Security | Pattern Matching | YARA | Women in IT | Life Development
+
+I am a researcher at Gen Digital, a Ph.D. student, and a member of the Formal Model Research Group at the Faculty of Information Technology, Brno University of Technology.
+
+My research includes various topics about formal models, compilers, and languages, focusing on their use in computer security. Currently, I am working with pattern matching tools for malware analysis, including Yara.
+
+I supervise bachelor's and master's students at faculty in cooperation with Gen and Red Hat companies. I am also teaching compilers, programming languages, and formal theory courses.
+
 ## Talks
 - 2024:
   * <a href="https://www.youtube.com/watch?v=cSJYZ8fRkf4" target="_blank">DevConf 2024: Gen: Open-source projects in the field of cyber security</a>
