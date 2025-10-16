@@ -9,7 +9,7 @@ category: home
 <a href="https://www.twitter.com/in/regeciovad/" target="_blank"><img src="assets/icons/icon-twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a>
 <a href="https://medium.com/@regeciova-dominika" target="_blank"><img src="assets/icons/icon-website.svg" alt="Website" style="width:42px;height:42px;"></a>
 
-**Senior Researcher | Gen Digital (formerly Avast) | Women in IT | Life Development**
+**Senior Researcher 🐾 Gen Digital (formerly Avast) 🐾 Women in IT 🐾 Life Development**
 
 🔬 I specialize in formal methods, compiler construction, and cybersecurity, currently focusing on agentic systems engineering and enterprise AI validation. 
 My work includes developing scalable malware detection tools like GenRex and contributing to YARA and YARA-X.
