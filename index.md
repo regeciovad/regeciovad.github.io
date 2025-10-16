@@ -9,11 +9,22 @@ category: home
 <a href="https://www.twitter.com/in/regeciovad/" target="_blank"><img src="assets/icons/icon-twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a>
 <a href="https://medium.com/@regeciova-dominika" target="_blank"><img src="assets/icons/icon-website.svg" alt="Website" style="width:42px;height:42px;"></a>
 
-I am a researcher at Gen Digital, a Ph.D. student, and a member of the Formal Model Research Group at the Faculty of Information Technology, Brno University of Technology.
+**Senior Researcher | Gen Digital (formerly Avast) | Women in IT | Life Development**
 
-My research includes various topics about formal models, compilers, and languages, focusing on their use in computer security. Currently, I am working with pattern matching tools for malware analysis, including Yara.
+🔬 I specialize in formal methods, compiler construction, and cybersecurity, currently focusing on agentic systems engineering and enterprise AI validation. 
+My work includes developing scalable malware detection tools like GenRex and contributing to YARA and YARA-X.
 
-I supervise bachelor's and master's students at faculty in cooperation with Gen and Red Hat companies. I am also teaching compilers, programming languages, and formal theory courses.
+🎓 I supervise bachelor’s and master’s theses in collaboration with Avast and Red Hat, and teach courses on compilers, programming languages, and formal theory at Brno University of Technology.
+
+🧠 I’m passionate about mentoring, public speaking, and supporting Women in Tech. I’ve contributed to forensic analytics tools for law enforcement and evaluated innovation projects for the Ministry of Industry and Trade.
+
+📚 Outside work, I love reading, learning new skills (currently piano and crocheting), and staying active through yoga and bouldering. I also help organize educational events like summer schools and conventions.
+
+📄 Publications include IEEE TrustCom, IEEE Access, and Botconf proceedings.
+
+🎤 Speaker at CARO Workshop, Botconf, IEEE TrustCom, and Women4Cyber’s SheSpeaksCyber.
+
+🐾 Proud cat parent to Barča, a black feline with attitude.
 
 ## Talks
 - 2024:
@@ -36,7 +47,8 @@ I supervise bachelor's and master's students at faculty in cooperation with Gen 
   * <a href="https://doi.org/10.1109/ACCESS.2021.3074801" target="_blank">Pattern Matching in YARA: Improved Aho-Corasick Algorithm</a>
 
 ## Others
-- <a href="https://engineering.avast.io/author/dominikaregeciova/" target="_blank">Avast: engineering.avast.io blog posts (mainly about YARA)</a>
+- <a href="https://www.gendigital.com/blog/insights/research/know-your-yara-rules-series-1-know-your-yara" target="_blank">Gen Digital - 
+Know your YARA rules series: #1 know your YARA </a>
 - <a href="https://medium.com/@regeciova-dominika" target="_blank">Personal blog posts</a>
 - <a href="https://www.fit.vut.cz/fit/press/3573/.en" target="_blank">Interview: The "We live IT" Conference is a place for both new career beginnings and meeting old friends</a>
 - <a href="https://www.vut.cz/vut/aktuality-f19528/mezinarodni-den-divek-a-zen-v-it-podporuje-rovnost-a-diverzitu-ve-svete-technologii-na-stejne-misi-je-letni-skola-it-pro-holky-d257336" target="_blank">Interview (czech): Mezinárodní den dívek a žen v IT podporuje rovnost a diverzitu ve světě technologií. Na stejné misi je Letní škola IT pro holky</a>
