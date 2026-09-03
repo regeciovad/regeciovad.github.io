@@ -27,6 +27,9 @@ My work includes developing scalable malware detection tools like GenRex and con
 🐾 Proud cat parent to Barča, a black feline with attitude.
 
 ## Talks
+- 2026:
+- * <a href="https://www.youtube.com/watch?v=L9APnmQ514Y" target="_blank">IT4I: Securing GitHub & GitLab Repositories in the Era of Supply Chain Attacks and AI Agents</a>
+- * <a href="https://www.youtube.com/watch?v=YPyHZPwefLI" target="_blank">IT4I: Security Challenges in Autonomous AI Agents</a>
 - 2024:
   * <a href="https://www.youtube.com/watch?v=cSJYZ8fRkf4" target="_blank">DevConf 2024: Gen: Open-source projects in the field of cyber security</a>
   * <a href="https://www.youtube.com/watch?v=iPcKEsgPt3E" target="_blank">Botconf 2024: GenRex Demonstration Level Up Your Regex Game</a>
