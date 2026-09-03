@@ -9,6 +9,26 @@ category: home
 <a href="https://www.twitter.com/in/regeciovad/" target="_blank"><img src="assets/icons/icon-twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a>
 <a href="https://medium.com/@regeciova-dominika" target="_blank"><img src="assets/icons/icon-website.svg" alt="Website" style="width:42px;height:42px;"></a>
 
+**AI & Cybersecurity Researcher** 🐾** Engineer & Educator** 🐾** Women in IT** 🐾 **Lifelong Learner**
+
+🔬 I work at the intersection of **artificial intelligence, cybersecurity, and software engineering**, with a current focus on **agentic AI systems, AI security, trustworthy AI, and enterprise AI validation**. My background spans formal methods, compiler construction, malware detection, and security research, including the development of **GenRex** and contributions to **YARA** and **YARA-X**.
+
+🤖 I enjoy exploring how modern AI systems work in practice — from **LLMs, RAG, and context engineering to AI agents, tool use, and orchestration**. My security background naturally makes me interested not only in what these systems can do, but also in their reliability, failure modes, and potential misuse.
+
+🎓 **Teaching and knowledge sharing are an important part of my work**. I design and deliver courses, workshops, and hands-on training in AI, cybersecurity, Deep Learning, Python, and HPC. I also supervise student projects and theses and enjoy helping people turn complex technical concepts into practical, understandable solutions.
+
+🎤 One of my strengths is **communicating complex topics to different audiences** — from researchers and software engineers to students and the general public. I regularly speak at conferences, workshops, summer schools, and educational events.
+
+🛡️ My previous research includes malware detection, automated security-rule generation, pattern matching, and forensic image and video analysis. I have also developed tools to support law-enforcement forensic analysis and worked on interdisciplinary and international projects.
+
+🌱 I care about **mentoring, education, open-source software, and supporting Women in Tech**. I am a Women4Cyber SheSpeaksCyber speaker and enjoy creating opportunities for people to learn, experiment, and become more confident with technology.
+
+📚 Outside work, I am an enthusiastic lifelong learner. I love books, learning new skills, piano, crocheting, yoga, bouldering, traveling, and helping organize educational events and conventions.
+
+📄 My publications include work in **IEEE TrustCom, IEEE Access, the CARO Workshop, and Botconf**, particularly in malware detection, YARA, regular expressions, and pattern matching.
+
+🐾 Proud cat parent to Barča, a black feline with attitude.
+
 **Senior Researcher 🐾 Gen Digital (formerly Avast) 🐾 Women in IT 🐾 Life Development**
 
 🔬 I specialize in formal methods, compiler construction, and cybersecurity, currently focusing on agentic systems engineering and enterprise AI validation. 
