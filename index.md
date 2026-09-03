@@ -9,7 +9,7 @@ category: home
 <a href="https://www.twitter.com/in/regeciovad/" target="_blank"><img src="assets/icons/icon-twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a>
 <a href="https://medium.com/@regeciova-dominika" target="_blank"><img src="assets/icons/icon-website.svg" alt="Website" style="width:42px;height:42px;"></a>
 
-**AI & Cybersecurity Researcher** 🐾** Engineer & Educator** 🐾** Women in IT** 🐾 **Lifelong Learner**
+**AI & Cybersecurity Researcher** 🐾 **Engineer & Educator** 🐾 **Women in IT** 🐾 **Lifelong Learner**
 
 🔬 I work at the intersection of **artificial intelligence, cybersecurity, and software engineering**, with a current focus on **agentic AI systems, AI security, trustworthy AI, and enterprise AI validation**. My background spans formal methods, compiler construction, malware detection, and security research, including the development of **GenRex** and contributions to **YARA** and **YARA-X**.
 
@@ -26,23 +26,6 @@ category: home
 📚 Outside work, I am an enthusiastic lifelong learner. I love books, learning new skills, piano, crocheting, yoga, bouldering, traveling, and helping organize educational events and conventions.
 
 📄 My publications include work in **IEEE TrustCom, IEEE Access, the CARO Workshop, and Botconf**, particularly in malware detection, YARA, regular expressions, and pattern matching.
-
-🐾 Proud cat parent to Barča, a black feline with attitude.
-
-**Senior Researcher 🐾 Gen Digital (formerly Avast) 🐾 Women in IT 🐾 Life Development**
-
-🔬 I specialize in formal methods, compiler construction, and cybersecurity, currently focusing on agentic systems engineering and enterprise AI validation. 
-My work includes developing scalable malware detection tools like GenRex and contributing to YARA and YARA-X.
-
-🎓 I supervise bachelor’s and master’s theses in collaboration with Avast and Red Hat, and teach courses on compilers, programming languages, and formal theory at Brno University of Technology.
-
-🧠 I’m passionate about mentoring, public speaking, and supporting Women in Tech. I’ve contributed to forensic analytics tools for law enforcement and evaluated innovation projects for the Ministry of Industry and Trade.
-
-📚 Outside work, I love reading, learning new skills (currently piano and crocheting), and staying active through yoga and bouldering. I also help organize educational events like summer schools and conventions.
-
-📄 Publications include IEEE TrustCom, IEEE Access, and Botconf proceedings.
-
-🎤 Speaker at CARO Workshop, Botconf, IEEE TrustCom, and Women4Cyber’s SheSpeaksCyber.
 
 🐾 Proud cat parent to Barča, a black feline with attitude.
 
